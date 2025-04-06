@@ -1,2 +1,2 @@
-# medapsis.es
-Web www.medapsis.es
+# medapsis.com
+Web www.medapsis.com
