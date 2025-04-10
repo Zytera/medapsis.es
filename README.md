@@ -1,4 +1,7 @@
-# Astro Starter Kit: Basics
+# medapsis.com
+Web www.medapsis.com
+
+## Astro Starter Kit: Basics
 
 ```sh
 bun create astro@latest -- --template basics
